@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botdetect xmlns="https://captcha.com/schema/php"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="https://captcha.com/schema/php
+            https://captcha.com/schema/php/botdetect-4.2.4.xsd">
+
+    <!--
+        BotDetect Captcha Simple API configuration
+    -->
+</botdetect>
